@@ -1,0 +1,7 @@
+P <-> D error look for diffrent logic
+Q <-> O error look for diffrent logic
+
+bug: due to picture quality there might be sometimes trough of 1 or 2 pixel look to accomodate that or change logic
+
+TODO: add lower case support
+TODO: recognition for paragraphs
